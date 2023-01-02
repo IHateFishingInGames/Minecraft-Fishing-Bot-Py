@@ -4,6 +4,11 @@ This bot works with any mod on fishing rods.
 For start using it u need to install some pips
 
 1. cv2, numpy and pyautogui
+
+pip install cv2
+pip install numpy
+pip install pyautogui
+
 2. just run code and check if the bobber detected.
 3. For better work disable all particles and press "F1" to hide GUI and prevent from miscatch
 
