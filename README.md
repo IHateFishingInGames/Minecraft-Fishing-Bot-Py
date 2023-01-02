@@ -24,3 +24,6 @@ Good sides:
 Bad sides:
 1. Raining could be your worst friend
 2. Bot based on image trace, need to run it on virtual machine or Windows Sandbox to be able to use your PC
+
+Additionals
+Via "screenshot region.py" you could change area for detecting and get region screenshot for yourself 
